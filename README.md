@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker
 
 A small Laravel web application for tracking daily expenses, organizing them by category, and viewing monthly reports.
@@ -103,3 +104,7 @@ Expenses use `decimal(10, 2)` instead of floating point storage to avoid currenc
 
 
 
+=======
+# expense_tracker
+A small Laravel web application for tracking daily expenses, organizing them by category, and viewing monthly reports.
+>>>>>>> 9efb539c05797dcee1bf08f094620dbf2f7902c1
