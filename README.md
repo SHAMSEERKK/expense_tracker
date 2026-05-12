@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Expense Tracker
 
 A small Laravel web application for tracking daily expenses, organizing them by category, and viewing monthly reports.
@@ -96,15 +95,3 @@ Expenses use `decimal(10, 2)` instead of floating point storage to avoid currenc
 6. Open Reports, select a month, and verify category totals and average daily expense.
 7. Check dashboard smart insights and chart bars after adding expenses.
 8. Log out and confirm authenticated pages redirect to login.
-
-
-
-
-
-
-
-
-=======
-# expense_tracker
-A small Laravel web application for tracking daily expenses, organizing them by category, and viewing monthly reports.
->>>>>>> 9efb539c05797dcee1bf08f094620dbf2f7902c1
